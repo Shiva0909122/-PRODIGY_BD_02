@@ -1,6 +1,3 @@
-About
-# Persistent Storage with Database Integration
-
 # Inventory Management System
 
 An Inventory Management System built using **Node.js**, **Express.js**, and **MongoDB** for backend functionality. This system supports basic CRUD operations for managing inventory items.
